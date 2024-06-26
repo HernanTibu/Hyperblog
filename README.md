@@ -1,6 +1,6 @@
 # Hyperblog
 Un Blog Increible para el curso de Git y GitHub
-> El curso de Git y GitHub es lo que me hacía falta para triicar mi salario y lanzarme a la industria de Machine Learning.
+> El curso de Git y GitHub es lo que me hacía falta para triplicar mi salario y lanzarme a la industria de Machine Learning.
 
 > - HernanTibu
 
