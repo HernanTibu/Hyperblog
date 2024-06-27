@@ -10,5 +10,6 @@ Un Blog Increible para el curso de Git y GitHub
 * El flujo de trabajo de GitHub.
 * El verdadero amor por las buenas prácticas.
 * Trucos muy locos con el profesor.
+* Creado por el increible Team.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.  Si llegas acá NO LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
